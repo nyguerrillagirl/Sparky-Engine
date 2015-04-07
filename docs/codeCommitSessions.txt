@@ -1,0 +1,10 @@
+This file tracks the commit versions to the episodes.
+
+To make it easy to locate the exact codebase that corresponds to the 
+end of an episode the zip file will be placed under episode_files/episodeXX.
+
+This makes the original intention of this file unnessary.
+
+Enjoy!
+
+
